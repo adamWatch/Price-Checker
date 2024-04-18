@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  min-height: 100%;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.4rem;
+  align-items: center;
+}
+
+.btn {
+  cursor: pointer;
+  outline: none;
+}
+
+input {
+  outline: none;
+}
