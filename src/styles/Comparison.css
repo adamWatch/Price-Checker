@@ -1,0 +1,12 @@
+.comparison {
+    width: 100%;
+    min-height: 79vh;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: azure;
+    background: rgb(87, 11, 17);
+    background: linear-gradient(34deg, rgba(87, 11, 17, 1) 15%, rgba(103, 12, 21, 1) 23%, rgba(97, 9, 19, 1) 60%, rgba(61, 6, 80, 0.9752275910364145) 93%);
+
+}
+
+.second_header {}

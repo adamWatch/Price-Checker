@@ -1,0 +1,12 @@
+.main_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 8vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    color: azure;
+    background: rgb(71, 9, 14);
+    background: linear-gradient(34deg, rgba(71, 9, 14, 1) 15%, rgba(79, 10, 17, 1) 23%, rgba(66, 8, 15, 1) 60%, rgba(43, 5, 56, 0.9752275910364145) 93%);
+}

@@ -1,0 +1,25 @@
+.searching {
+    min-width: 100%;
+    min-height: 10vh;
+    background: rgb(71, 9, 14);
+    background: linear-gradient(34deg, rgba(71, 9, 14, 1) 15%, rgba(79, 10, 17, 1) 23%, rgba(66, 8, 15, 1) 60%, rgba(43, 5, 56, 0.9752275910364145) 93%);
+}
+
+.search_input {
+    font-size: 1.4rem;
+    width: 35vw;
+    color: azure;
+    background-color: black;
+    padding: 0.4rem;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.search_btn {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    background: rgb(62, 9, 71);
+    background: linear-gradient(34deg, rgba(62, 9, 71, 1) 15%, rgba(69, 10, 79, 1) 23%, rgba(63, 8, 66, 1) 60%, rgba(45, 6, 59, 0.9752275910364145) 93%);
+    color: azure;
+}

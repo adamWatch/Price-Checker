@@ -1,0 +1,7 @@
+footer {
+    min-width: 100%;
+    color: azure;
+    text-align: center;
+    background: rgb(71, 9, 14);
+    background: linear-gradient(34deg, rgba(71, 9, 14, 1) 15%, rgba(79, 10, 17, 1) 23%, rgba(66, 8, 15, 1) 60%, rgba(43, 5, 56, 0.9752275910364145) 93%);
+}
